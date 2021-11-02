@@ -22,3 +22,4 @@ Minecraft serverio parduotuvė
 # Ačiū už apsilankymą saslyko svetainėje
 
 
+<script> document.getElementsByClassName('site-footer-credits')[0].remove() </script>
