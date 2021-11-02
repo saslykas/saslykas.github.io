@@ -35,6 +35,10 @@ Minecraft serverio parduotuvė
   50% {background-position: right}
   100% {background-position: left}
 }
+
+.project-name {
+  color: white;
+ }
 </style>
 
 <style> img { pointer-events: none; } .site-footer-credits { font-size: 0%; } </style>
