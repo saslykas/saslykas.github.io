@@ -1,3 +1,8 @@
 # Parduotuvė
-
-<iframe src="https://forms.gle/d61RwBaTCRxcVGSe9" title="Minecraft Parduotuvė"></iframe>
+<style>
+	.shop {
+		width: 100vh;
+		height: 100vh;
+	}
+</style>
+<iframe src="https://forms.gle/d61RwBaTCRxcVGSe9" title="Minecraft Parduotuvė" class="shop"></iframe>
