@@ -1,6 +1,8 @@
 ## SASLYKO SVETAINĖ
 Saslyko oficiali sveitainė
 
+![Image](https://media.lrytas.lt/images/2016/06/24/1491538146871_2162962_1440x960_1491538148351.jpg)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
