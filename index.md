@@ -17,7 +17,7 @@ jogurtas
 ## **Minecraft shop**
 Minecraft serverio parduotuvė
 
-[Link](./shop)
+[Link](./shop.md)
 
 # Ačiū už apsilankymą saslyko svetainėje
 
