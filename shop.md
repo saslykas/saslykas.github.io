@@ -1,6 +1,10 @@
 # Parduotuvė 
 
-<button type="button" formaction="/action_index.md">Atgal</button>
+<form>
+ <input type="button" value="Atgal" onclick="history.back()">
+</form>
+ 
+
 
 <style>
 	.shop {
