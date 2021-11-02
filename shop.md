@@ -1,6 +1,6 @@
 # Parduotuvė 
 
-Atgal [link](./main.md)
+Atgal [link](./index.md)
 
 <style>
 	.shop {
