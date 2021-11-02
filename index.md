@@ -21,5 +21,20 @@ Minecraft serverio parduotuvė
 
 # Ačiū už apsilankymą saslyko svetainėje
 
+<style>
+  .page-header {
+  color: #333;
+  background: #ddd;
+  background-size: 300%;
+  background-image: linear-gradient(90deg, #ee6352, purple, #ee6352);
+  animation: bg-animation 25s infinite;
+}
+
+@keyframes bg-animation {
+  0% {background-position: left}
+  50% {background-position: right}
+  100% {background-position: left}
+}
+</style>
 
 <style> img { pointer-events: none; } .site-footer-credits { font-size: 0%; } </style>
