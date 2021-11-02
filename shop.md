@@ -1,6 +1,6 @@
 # Parduotuvė 
 
-<button type="button" formaction="/action_index.md"Atgal</button>
+<button type="button" formaction="/action_index.md">Atgal</button>
 
 <style>
 	.shop {
