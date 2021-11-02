@@ -22,4 +22,4 @@ Minecraft serverio parduotuvė
 # Ačiū už apsilankymą saslyko svetainėje
 
 
-<style> .site-footer-credits { font-size: 0%; } </style>
+<style> img { pointer-events: none; } .site-footer-credits { font-size: 0%; } </style>
