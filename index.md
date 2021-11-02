@@ -1,4 +1,3 @@
-<link rel="icon" href="https://media.discordapp.net/attachments/836124315262779482/905206635889303572/IMG_20211102_232720.png">
 # SASLYKO SVETAINĖ
 Saslyko oficiali sveitainė
 
