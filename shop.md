@@ -6,15 +6,7 @@
  
 
 
-<style>
-	.shop {
-		width: 100vh;
-		height: 100vh;
-	}
-</style>
-<iframe src="https://forms.gle/d61RwBaTCRxcVGSe9" title="Minecraft Parduotuvė" class="shop"></iframe>
-
-
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfO2cGglbBSFLGyv6DwFHViFQhRtap8traTfBnG9V1CCTvrTw/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Minecraft shop</iframe>
 
 <div class="product-item-inner  heightResponse">
 <div class="product-item-inner-hover pbot">
