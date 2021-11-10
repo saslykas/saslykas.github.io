@@ -17,7 +17,8 @@ jogurtas
 ## **Minecraft shop**
 [Minecraft serverio parduotuvė](./shop.md)
 
-
+## Pamatyk stebuklą!
+[Stebuklas](./trolis.md)
 
 # Ačiū už apsilankymą šašlyko svetainėje
 
