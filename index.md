@@ -1,7 +1,7 @@
 # ŠAŠLYKO SVETAINĖ
 Šašlyko oficiali svetainė
 
-<img src="https://tenor.com/view/ukraine-flag-ukraine-flag-flag-ukraine-ukraine-map-gif-14339705" width=1000>
+<div class="tenor-gif-embed" data-postid="14339705" data-share-method="host" data-aspect-ratio="1.50235" data-width="30%<a href="https://tenor.com/view/ukraine-flag-ukraine-flag-flag-ukraine-ukraine-map-gif-14339705">Ukraine Flag GIF</a>from <a href="https://tenor.com/search/ukraine-gifs">Ukraine GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ![Image](https://media.lrytas.lt/images/2016/06/24/1491538146871_2162962_1440x960_1491538148351.jpg)
 
 ## Apie svetainę
