@@ -1,6 +1,7 @@
 # ŠAŠLYKO SVETAINĖ
 Šašlyko oficiali svetainė
 
+![Image](https://tenor.com/view/ukraine-flag-ukraine-flag-flag-ukraine-ukraine-map-gif-14339705)
 ![Image](https://media.lrytas.lt/images/2016/06/24/1491538146871_2162962_1440x960_1491538148351.jpg)
 
 ## Apie svetainę
@@ -21,6 +22,10 @@ jogurtas
 [Stebuklas](./trolis.md)
 
 # Ačiū už apsilankymą šašlyko svetainėje
+
+<video src="https://cdn.discordapp.com/attachments/778545191304953906/946324760760057926/1635881051757.mp4" controls="controls" style="max-width: 730px;">
+</video>
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pgDsclAGZ9o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
